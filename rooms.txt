@@ -1,0 +1,5 @@
+10 High Street,500,true
+8 Queen Avenue,450,true
+18 Flora Street,580,false
+
+16 Flora,580.0,true
